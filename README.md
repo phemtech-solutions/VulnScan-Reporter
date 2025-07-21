@@ -117,3 +117,12 @@ If this application is deployed to a public platform (like Streamlit Community C
 ## 🤝 Contribution & License
 
 This project is open-source. For information on contributing to its development or licensing details, please refer to the project's GitHub repository.
+
+## 👨‍💻 Author
+
+**Ajijola Oluwafemi Blessing**  
+Cybersecurity | Software | IT | Research
+
+- GitHub: [phemtech-solutions](https://github.com/oluwafemiab/ajijola.github.io)  
+- LinkedIn: [https://www.linkedin.com/in/ajijola-oluwafemi-ba839712a/)
+
